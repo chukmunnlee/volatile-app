@@ -10,4 +10,4 @@ resources:
 namespace: dev
 images:
 - name: chukmunnlee/volatile-app
-  newTag: 1.1.0
+  newTag: 1.0.0
