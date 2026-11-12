@@ -1,2 +1,2 @@
-/mvnw text eol=lf
-*.cmd text eol=crlf
+**/README.md linguist-generated=true
+**/hydrator.metadata linguist-generated=true

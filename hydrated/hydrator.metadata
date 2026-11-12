@@ -1,0 +1,8 @@
+{
+  "repoURL": "https://github.com/chukmunnlee/volatile-app.git",
+  "drySha": "a3932ce592fbbad2ba07e91720e4200f450bd85c",
+  "commands": [
+    "kustomize edit set namespace -- medium",
+    "kustomize build ./overlays/dev"
+  ]
+}
